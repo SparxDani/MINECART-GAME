@@ -128,7 +128,7 @@ MonoBehaviour:
     _ContoursElevationStrength: 3
     _ContoursElevationSmoothness: 0.5
     _ContoursDepressionStrength: 3
-    _ContoursDepressionSmoothness: 0.25
+    _ContoursDepressionSmoothness: 0.9
     _CavityIntensity: 1
     _CavityRadius: 1
     _CavityStrength: 0.9

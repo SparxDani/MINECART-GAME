@@ -25,7 +25,6 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
-  - _NORMALMAP
   - _OCCLUSIONMAP
   - _SPECULAR_SETUP
   m_InvalidKeywords: []
@@ -53,7 +52,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 45cb78b770f400942aab0b5438274c2c, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -161,7 +160,7 @@ Material:
     - _REFLECTIONS_ROUGHNESS: 0.5356144
     - _REFLECTIONS_WEIGHT: 0
     - _ReceiveShadows: 1
-    - _Smoothness: 0.557
+    - _Smoothness: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
