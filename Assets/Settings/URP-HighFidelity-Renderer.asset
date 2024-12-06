@@ -15,16 +15,16 @@ MonoBehaviour:
   m_Active: 1
   m_Settings:
     AOMethod: 1
-    Downsample: 0
+    Downsample: 1
     AfterOpaque: 1
     Source: 1
     NormalSamples: 2
-    Intensity: 5
-    DirectLightingStrength: 0.364
-    Radius: 2
+    Intensity: 10
+    DirectLightingStrength: 0.445
+    Radius: 30
     Samples: 0
     BlurQuality: 0
-    Falloff: 100
+    Falloff: 25
     SampleCount: -1
   m_BlueNoise256Textures:
   - {fileID: 2800000, guid: 36f118343fc974119bee3d09e2111500, type: 3}
@@ -109,7 +109,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5d96b09ddaf37042b925b14decbf20e, type: 3}
   m_Name: ToonDetailerFeature
   m_EditorClassIdentifier: 
-  m_Active: 1
+  m_Active: 0
   m_Settings:
     _DetailerType: 0
     _MaskUse: 0
@@ -122,14 +122,14 @@ MonoBehaviour:
     _FadeAffectsOnlyContours: 0
     _FadeStart: 40
     _FadeEnd: 60
-    _BlackOffset: 0.5
-    _ContoursIntensity: 0.724
-    _ContoursThickness: 1.14
-    _ContoursElevationStrength: 2.14
-    _ContoursElevationSmoothness: 0.733
+    _BlackOffset: 0
+    _ContoursIntensity: 0.762
+    _ContoursThickness: 1.54
+    _ContoursElevationStrength: 1.28
+    _ContoursElevationSmoothness: 0.801
     _ContoursDepressionStrength: 3
     _ContoursDepressionSmoothness: 0.1
-    _CavityIntensity: 0.578
-    _CavityRadius: 0.157
-    _CavityStrength: 3.27
+    _CavityIntensity: 0.551
+    _CavityRadius: 0.259
+    _CavityStrength: 3.51
     _CavitySamples: 9

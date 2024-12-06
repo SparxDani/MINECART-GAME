@@ -1,0 +1,36 @@
+# Blender MTL File: 'Prehistoric Playground Water Jet.blend'
+# Material Count: 3
+
+newmtl FXT_FXM_waterfishsub_underwaterTrails_0
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!VFX!FX_GEO!FXT_FXM_waterfishsub_underwaterTrails_01`tga,111out.png
+map_d ColorMap,textures@!VFX!FX_GEO!FXT_FXM_waterfishsub_underwaterTrails_01`tga,111out.png
+
+newmtl FXT_cloud_fluffy_lining_3strip
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!VFX!Atmosphere!FXT_cloud_fluffy_lining_3strip`tga,111out.png
+map_d ColorMap,textures@!VFX!Atmosphere!FXT_cloud_fluffy_lining_3strip`tga,111out.png
+
+newmtl fxt_water_geyser_d
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 0.393939
+illum 9

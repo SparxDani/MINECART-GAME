@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 9e974be4340abd941a00d1cfec8d0893
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BossEntropyWeapon_C
+    second: {fileID: 2100000, guid: 46a4dbffe360d1942a2d301704938922, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: C1_Jungle_Cliff01_C
+    second: {fileID: 2100000, guid: 783bd501d1059da4189728c589743da3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: C1_PalmLeaf01_C
+    second: {fileID: 2100000, guid: cf5921461ad6c1a428a2f92ad5667d68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: C1_RockSet_01_N
+    second: {fileID: 2100000, guid: 14b145dde048f584ebed89781e40e67b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: C1_Sharp_Grass_C
+    second: {fileID: 2100000, guid: dc4814b980f1a024183af299c62281a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: C2_StoneSignSet_C
+    second: {fileID: 2100000, guid: bfa52ba0c01a414479bade2cba8d0e57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: C2_VinesDecal01_C
+    second: {fileID: 2100000, guid: cdc56f9148fb5ee44976c8554efe7a76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: C3_Egypt_Glyphs_ColumnStone_N
+    second: {fileID: 2100000, guid: 307d08927b257e24793a01b41d0b80ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: C3_Prehistoric_Tusk01_C
+    second: {fileID: 2100000, guid: 67f58eb670fcfe24ca5ca2444e692bc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CrashCove_Sand02_D
+    second: {fileID: 2100000, guid: fd78dc45050010749887e05ef9a739eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FXT_distort_water_01
+    second: {fileID: 2100000, guid: 63d0d1aa8a1a09045b5464db673f24ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FakeBronchiosaurus_Body_C
+    second: {fileID: 2100000, guid: fad053204e26474479a3ed5298c7dc11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FakeBronchiosaurus_Hair_C
+    second: {fileID: 2100000, guid: b8d93f911f94bb046b6f963626bfd58b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FakeTriceratop_Body_C
+    second: {fileID: 2100000, guid: fad1fd8c9efc16b4698e0b0882ba6c91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OCT_Turbo_Pad_EC
+    second: {fileID: 2100000, guid: 17143d434e48d954dbd8c3786bded2b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ride_Trex_Egg_C
+    second: {fileID: 2100000, guid: e5a81ad7567673c47a7c0dd0faf29426, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T111_CTR_Letters_C
+    second: {fileID: 2100000, guid: 7b73c33053a6fe444800dd03f298df73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T131_C3_Vine01_C
+    second: {fileID: 2100000, guid: 4e11cb2048aaa354ea9ec8bd849aa4cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T142_Ground_Sand_02e_C
+    second: {fileID: 2100000, guid: 68f6cdffb81698440ae3a9a28524c540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T31_Checker_C
+    second: {fileID: 2100000, guid: 5e14a5479ab7f044e93629bf957a4ed4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_AloeVera_C
+    second: {fileID: 2100000, guid: bd980aca97ee0f940995f2fd6bd107fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Arrow_Decal_01_C
+    second: {fileID: 2100000, guid: d983ed0ed41b7804da17095708446611, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Bones_C
+    second: {fileID: 2100000, guid: 857229dba8b772c4095dac94d7f1c375, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Bridge_Planks_Wet_C
+    second: {fileID: 2100000, guid: 1b6bf479a40cea54181c8c722e5d9713, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_CaveGBorder01_C
+    second: {fileID: 2100000, guid: d71f70d240dc60c4099177bdcd640adf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Feather_01_C
+    second: {fileID: 2100000, guid: bda1f7fb85b0f88499fe1e6349cf15d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_FernJurassic_C
+    second: {fileID: 2100000, guid: bb8efc5042044774ab777da12756a826, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Foliage_Paint_Trim_01_C
+    second: {fileID: 2100000, guid: 41bdee7d0458fec4a8481a72101427d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Grass_01_C
+    second: {fileID: 2100000, guid: 0432117315039f04c85866cf38e1de51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_GroundLeaves_01_C
+    second: {fileID: 2100000, guid: c82e6e36d61a6fe4095b75829dc70f88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_JungleBorder_01_C
+    second: {fileID: 2100000, guid: e21297b682222c74585cf7c92c1e30bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_JungleLeaves_01_C
+    second: {fileID: 2100000, guid: 38458c7ca8be6694795af808ce78a182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Jungle_Leaves_02
+    second: {fileID: 2100000, guid: 00ae79a3ed448bd4fa08d0f02fe3557a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Jungle_Plants_C
+    second: {fileID: 2100000, guid: 97fe7c12059fc5a48beb5e90af73113e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Jungle_Waterplant_C
+    second: {fileID: 2100000, guid: fa06b9d934564bb4d9d7345a434cc0d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Leaves_01_C
+    second: {fileID: 2100000, guid: a18fc470094609843b8ba09fbcc24f58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_MudGround2_01_C
+    second: {fileID: 2100000, guid: f0bb51a411b47cf4caf6257617f2fbf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_MudGround3_01_C
+    second: {fileID: 2100000, guid: 294303a4b99b259488a04b55d9d842c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_MudGround4_01_C
+    second: {fileID: 2100000, guid: 8c6519510ec4a034cbd55ec409765ded, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_MudGroundTrack1_01_C
+    second: {fileID: 2100000, guid: 34e86726b94484b498b3aea646ee8d6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_MudGround_01_C
+    second: {fileID: 2100000, guid: 02fedfe9a00684c47865ea8effd19ad9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Nest_C
+    second: {fileID: 2100000, guid: ae6c82868dbede245bef8a607281bb33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_PinePlant_C
+    second: {fileID: 2100000, guid: 1e675d83c76d56a48967dc195e63496b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Plants_Jurassic_Generic_C
+    second: {fileID: 2100000, guid: 9a9d0a6ee623d464e908223477b2de33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_RockGBorder01_C
+    second: {fileID: 2100000, guid: d5db74176f292c5449faf0ac8f51fddb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_RockGround1_01_C
+    second: {fileID: 2100000, guid: 2999597f22f204e4d955b7d5cc6cdff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_RockLittle01_01_C
+    second: {fileID: 2100000, guid: 90e3758b3f453df479411ee029d64435, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_RockMed02_01_C
+    second: {fileID: 2100000, guid: c824998d50709e145848e022d2e4af13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Rockwall_02_C
+    second: {fileID: 2100000, guid: d323f52d582ca8040b4314a120928c53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Rond_Shortcut_01_C
+    second: {fileID: 2100000, guid: 7587d4dca4865604aba9ee26eb4fb1ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Rond_Shortcut_02_C
+    second: {fileID: 2100000, guid: 97c5c7a52721238489379c8a70667dbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Rond_Shortcut_03_C
+    second: {fileID: 2100000, guid: 20c97d14bde99434cb9fc01a41ea2b25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_SetBones_C
+    second: {fileID: 2100000, guid: 32fda01ae49f34e45bfb0589768950f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Skybox_back
+    second: {fileID: 2100000, guid: 5b202caac8c9d4546bd7d2c0e46694e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Skybox_front
+    second: {fileID: 2100000, guid: ae1f636e90882134189b6eb2533f8f3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Skybox_left
+    second: {fileID: 2100000, guid: f39c72a9e6ac81545bca7966bda81f96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Skybox_right
+    second: {fileID: 2100000, guid: 394c472b11e845c45b3c4c2f1306d85f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Skybox_up
+    second: {fileID: 2100000, guid: 14ccb2fb0284dbb469f75bd06f6752fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Stalactites_01_C
+    second: {fileID: 2100000, guid: bc29fea55ffa38c40ae7738f6710017a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Straw_01_C
+    second: {fileID: 2100000, guid: 691764493e8f0e440af11ee09432dd75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Tree_Acacia_01_C
+    second: {fileID: 2100000, guid: 136ef825eb9fcab44bf116a0bddf98a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Tree_Jungle_01_C
+    second: {fileID: 2100000, guid: 19ae558cdc4720847bbb409e6aff3145, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Tree_Jungle_02_C
+    second: {fileID: 2100000, guid: be7e620cba2d3cb4bb71c1af0bd7f060, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Tree_Palm_01_C
+    second: {fileID: 2100000, guid: 46d5c79ef224f4142bf3e047d9d74029, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Water_Pipes_C
+    second: {fileID: 2100000, guid: 5f53e1efcd249d84a81f3fe9e332dd1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_WoodPike_01_C
+    second: {fileID: 2100000, guid: cab7f46173ff7ac4ba83286db06fc183, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T502_Wood_Stick_C
+    second: {fileID: 2100000, guid: ce059e5af1a1e7b49b06df89486f9c85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: fffcf804805f8ab449d68b8bb58e92a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fxt_water_geyser_d
+    second: {fileID: 2100000, guid: e60c862c0f77e7943939c3801f1fd5b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fxt_water_unlit_liquid
+    second: {fileID: 2100000, guid: e7b0c811fae7a2246b6cd8dd933e3e97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fxt_waterfall
+    second: {fileID: 2100000, guid: 0770e5bf979774c4daf758cca55af7a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t502_Cavern_Decal_01
+    second: {fileID: 2100000, guid: 6e4512c72fbb49d468d4e2a8fbd60f70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t502_Cavern_Decal_02
+    second: {fileID: 2100000, guid: 8ab6dc346a6dd8648bc330a95b0c9fb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t502_Cavern_Decal_03
+    second: {fileID: 2100000, guid: 8851342615868a04a957594cfd6a909f, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

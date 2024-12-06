@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: d2e905d81477a16418302a24fdd82d5d
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ground_Proxy_WholeCaveLibraryMat
+    second: {fileID: 2100000, guid: fc253e160dd27c94380d5fe63b7b3ad1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PaperPile_ProxyMat
+    second: {fileID: 2100000, guid: ca45213532c3d884b9bd7c477c2db6bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Barrel1_ProxyMat
+    second: {fileID: 2100000, guid: 64508d72b382ed54eb21e813127ca1cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Barrel2_ProxyMat
+    second: {fileID: 2100000, guid: fa0aaca951f5d6b48b2c9d97ae6755f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_BigBook1_ProxyMat
+    second: {fileID: 2100000, guid: be45fd92fe818bd47b09d0282e8c8c3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_BigBook2_ProxyMat
+    second: {fileID: 2100000, guid: e6813a7b377f6fa4496b7bc154ac8221, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Blackboard_ProxyMat
+    second: {fileID: 2100000, guid: 07d66a15ffb7e744682669742ddb8eaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_BookStac4_ProxyMat
+    second: {fileID: 2100000, guid: 5c1459c97702e6a43a736b6c32adea23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_BookStack1_ProxyMat
+    second: {fileID: 2100000, guid: 04d6e34fda2cab747a070c38f7d00105, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_BookStack2_ProxyMat
+    second: {fileID: 2100000, guid: 0c8597dc09a651e439e9f38fe98fab16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_BookStack3_ProxyMat
+    second: {fileID: 2100000, guid: c3966d8fb1c9639459331934fa84fe6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_BookStack4_ProxyMat
+    second: {fileID: 2100000, guid: 7414dc615e73b3d428b0d5d5c83922d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_BookStack5_ProxyMat
+    second: {fileID: 2100000, guid: 04d005ae5c4e753498bae13b191e1f5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_BookStack6_ProxyMat
+    second: {fileID: 2100000, guid: d2f04f67d6e0a0a4e8571452cb1a073a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_BookStack7_ProxyMat
+    second: {fileID: 2100000, guid: 0fff937343e7f264ca604c514562da0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_BookStepsMat
+    second: {fileID: 2100000, guid: 38fab0dd9c882fc46ad5df0ffe3d91fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_OnShelf_Group10_ProxyMat
+    second: {fileID: 2100000, guid: f9056849c499f014097cb0ae95f78728, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_OnShelf_Group11_ProxyMat
+    second: {fileID: 2100000, guid: 9488dea513aa0f8459bdec397f4fdbe1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_OnShelf_Group12_ProxyMat
+    second: {fileID: 2100000, guid: 3ff87645b378d1141852ce2eb443c5c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_OnShelf_Group13_ProxyMat
+    second: {fileID: 2100000, guid: ccb7da458509938469fbf099e6100175, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_OnShelf_Group14_Proxy1Mat
+    second: {fileID: 2100000, guid: f1fc73870ef8c6b499e326bfd5612c38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_OnShelf_Group14_ProxyMat
+    second: {fileID: 2100000, guid: b80f78c87fc09684b86003aeb9bc1788, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_OnShelf_Group1_ProxyMat
+    second: {fileID: 2100000, guid: aefd9c3f5bd9f7b4ebc0f6cfdd00b5da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_OnShelf_Group2_ProxyMat
+    second: {fileID: 2100000, guid: 50ace9c56fb2a224b8ce61651a9ef0dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_OnShelf_Group3_ProxyMat
+    second: {fileID: 2100000, guid: 55f28e2e5fcfb8c4585ae63a00f24edf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_OnShelf_Group4_ProxyMat
+    second: {fileID: 2100000, guid: 45ec3c66ef7a27446b0019d6fbfff1b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_OnShelf_Group5_ProxyMat
+    second: {fileID: 2100000, guid: df79f8d91be95f94ab61ac59bcce6f8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_OnShelf_Group6_ProxyMat
+    second: {fileID: 2100000, guid: 6121adceaddeed14da0fa946bdddcd46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_OnShelf_Group7_ProxyMat
+    second: {fileID: 2100000, guid: 293d1d6abf61eb145a723f2979cc3ffd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_OnShelf_Group8_ProxyMat
+    second: {fileID: 2100000, guid: 479106b11d034f74e85005e5317b73dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_OnShelf_Group9_ProxyMat
+    second: {fileID: 2100000, guid: 726c9787e45d6584bb5ac83a8bcdf299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_Stack_Small1_ProxyMat
+    second: {fileID: 2100000, guid: a56c4c32e49cdd34bab94f88bf2b22f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_Stack_Small2_ProxyMat
+    second: {fileID: 2100000, guid: ba087dd873f476d468cd2e9c4d15816f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_Stack_Small3_ProxyMat
+    second: {fileID: 2100000, guid: 63170d8b3616e934d8b6ab4fcc716712, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_Stack_Small4_ProxyMat
+    second: {fileID: 2100000, guid: 535b8d4cf533b4c4da1f261b23bcd895, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_Stack_Small5_ProxyMat
+    second: {fileID: 2100000, guid: 902a16da49d4ae24eb381163fb00a9f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_Stack_Small6_ProxyMat
+    second: {fileID: 2100000, guid: 6c552e1a71f34c44fb6f30640d77bb7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_Stack_Small7_ProxyMat
+    second: {fileID: 2100000, guid: 119e1d22536901e42ae58b2f1701d5fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_Stack_Small8_ProxyMat
+    second: {fileID: 2100000, guid: c1bb26d5a9d337d47b394c52730d460e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Book_Stack_Small9_ProxyMat
+    second: {fileID: 2100000, guid: 357596e76331f3d4899b9c1efc4da113, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Bookcase1_ProxyMat
+    second: {fileID: 2100000, guid: b101cfa33e4ba6a4c9f34e7b394cc931, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Bookcase2_ProxyMat
+    second: {fileID: 2100000, guid: 3b81e95fa570fd9458a8b9c5394e92a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Bookcase3_ProxyMat
+    second: {fileID: 2100000, guid: 74fc84b9d3f9d3248a2f714400fe4113, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Bookcase4_ProxyMat
+    second: {fileID: 2100000, guid: 86f4b734c19da584db3491dbdefcc40f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Boulder_ProxyMat
+    second: {fileID: 2100000, guid: 0b7031fd49f85674f80cb7092472b68a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Cart_Wheel_10Mat
+    second: {fileID: 2100000, guid: bd29b8ce6f097c246a7915d235d1b0c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Cart_Wheel_11Mat
+    second: {fileID: 2100000, guid: b9be44cc9989b0e4bbec2ac0c337ee78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Cart_Wheel_2Mat
+    second: {fileID: 2100000, guid: e4d9fd10a6fa5cc45b33697311e7357e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Cart_Wheel_5Mat
+    second: {fileID: 2100000, guid: c82a63d25d7f4c14dac7bfe84ad4052e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Cart_Wheel_6Mat
+    second: {fileID: 2100000, guid: 82948e7ae9799164c9a3df1e85e4d7bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Cart_Wheel_7Mat
+    second: {fileID: 2100000, guid: 5961283fcfe24f14b87c7c232f870bda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Cart_Wheel_8Mat
+    second: {fileID: 2100000, guid: 9bfac6d5779967f4bac38055f629fecd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Cart_Wheel_9Mat
+    second: {fileID: 2100000, guid: 57402db1e81b4474ea4a0a3bc257e103, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Cavern_Walls_Ceiling_ProxyMat
+    second: {fileID: 2100000, guid: 2b2ce05f686e2af4985444a0d06920bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Chair_Proxy1Mat
+    second: {fileID: 2100000, guid: c7b52ccbed93e514b997895d76c92328, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Chair_Proxy2Mat
+    second: {fileID: 2100000, guid: d0335ee7ab7713d4690fc2230be64824, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Chair_ProxyMat
+    second: {fileID: 2100000, guid: 3c6fa7a914d7a424eaeb4e766c5a3a3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Earth_ProxyMat
+    second: {fileID: 2100000, guid: 335f5e3cd3a7d3a4f96e0359c27ce788, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Frame1_ProxyMat
+    second: {fileID: 2100000, guid: 791d235ed41c2334cad4c6180214812f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Frame2_ProxyMat
+    second: {fileID: 2100000, guid: 0b669dbb6456a354992550bf67c9b191, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Frame3_ProxyMat
+    second: {fileID: 2100000, guid: 09d9501141b13cf4ea1cd2161e2b133c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Gem_Formation_10Mat
+    second: {fileID: 2100000, guid: 6ac08accf0e82084ab7f3f9d123a1aa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Gem_Formation_12Mat
+    second: {fileID: 2100000, guid: cf60de3e4f88b824f91f9dad9b7a07a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Gem_Formation_13Mat
+    second: {fileID: 2100000, guid: 44522c541a28c7a4b879d4736ea4120c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Gem_Formation_8Mat
+    second: {fileID: 2100000, guid: 31fa001d76c90ae4ca2fb12e8faf86d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy10Mat
+    second: {fileID: 2100000, guid: 9a1712fe42adcd742b528567fc02b12f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy11Mat
+    second: {fileID: 2100000, guid: 10fc2e22638f34847a2240b444587c11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy12Mat
+    second: {fileID: 2100000, guid: b5537aeb1c8fca24683dd66af94e94f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy13Mat
+    second: {fileID: 2100000, guid: ef148491daec7404d9eb6a6406b1fa6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy14Mat
+    second: {fileID: 2100000, guid: c7040598806672040b856df74e819afc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy15Mat
+    second: {fileID: 2100000, guid: f42327364cf328143a76021bee677feb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy16Mat
+    second: {fileID: 2100000, guid: b6eee08d9b5d35546bf1d0498591ddf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy17Mat
+    second: {fileID: 2100000, guid: 9601000b76fe6aa4297068654ba5bd54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy18Mat
+    second: {fileID: 2100000, guid: fe50c5dae1d7d364ba63d645bb8f0bc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy19Mat
+    second: {fileID: 2100000, guid: eada35b84af7d344e886908014657bde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy1Mat
+    second: {fileID: 2100000, guid: 464ba93083c18e3439d263c59ba45edf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy20Mat
+    second: {fileID: 2100000, guid: fdf93f24b2af68f4fbfce439624da91e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy21Mat
+    second: {fileID: 2100000, guid: bdbb49a2a0a705d4f8d0cb1f5559e3b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy22Mat
+    second: {fileID: 2100000, guid: 34023872cde15a848b143cab2e539654, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy23Mat
+    second: {fileID: 2100000, guid: 3ee0970cba73dce4cb09bc0b568c02d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy24Mat
+    second: {fileID: 2100000, guid: 979ef8ba303c0ec4fa67b689bcb0bba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy25Mat
+    second: {fileID: 2100000, guid: c4700a809cf44ca428660fa08b5b17ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy26Mat
+    second: {fileID: 2100000, guid: b054a527f9b3d4d4386ef76d6be03d71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy27Mat
+    second: {fileID: 2100000, guid: 415276bdd7c066f4782777a49e685074, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy28Mat
+    second: {fileID: 2100000, guid: c9eb3de2815e16a4b8155794ef0910b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy29Mat
+    second: {fileID: 2100000, guid: 2399d61d7ba1b324e9853d926e106ea0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy2Mat
+    second: {fileID: 2100000, guid: 62fd67ad2019f5f41b1deeba4d9e3b29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy30Mat
+    second: {fileID: 2100000, guid: 49f68c0c9deb05e47a9ad9ce8f6f053e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy31Mat
+    second: {fileID: 2100000, guid: b37336542c25e0b40bbcb0ce1f89e74c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy32Mat
+    second: {fileID: 2100000, guid: 8dd56d3781c74474f9d02ab33725c6be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy33Mat
+    second: {fileID: 2100000, guid: f5bcc73972a96a04193a2396dfe37f58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy34Mat
+    second: {fileID: 2100000, guid: d7cf483caf284d0489489ed4dd3d626d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy35Mat
+    second: {fileID: 2100000, guid: bbfa3106f9d558345a51db6d96c19016, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy36Mat
+    second: {fileID: 2100000, guid: 26e7e57d310ecaa4497ec96468d2b3d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy37Mat
+    second: {fileID: 2100000, guid: 6733defd9daff3f4aa5712c8f18a8486, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy38Mat
+    second: {fileID: 2100000, guid: 487dd5d008f18d34ba26138f33cda706, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy39Mat
+    second: {fileID: 2100000, guid: c6998e0708669dd4daab26340d20648f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy3Mat
+    second: {fileID: 2100000, guid: 0097b853f6fcea84db8c0047306f6c82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy40Mat
+    second: {fileID: 2100000, guid: dae1d233518415d4ca151483e4e290a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy41Mat
+    second: {fileID: 2100000, guid: f1c546f69e2324640a08c2f585b4480d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy42Mat
+    second: {fileID: 2100000, guid: bad3c129ce65e8c41b9cf83de8a6975c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy43Mat
+    second: {fileID: 2100000, guid: b864e8dfa0b52d5479ef696c32f3cd70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy44Mat
+    second: {fileID: 2100000, guid: b561128cc89865742a939d2b70dc1f89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy45Mat
+    second: {fileID: 2100000, guid: f9b1d25d197e4884b8da44f0eb9a83a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy46Mat
+    second: {fileID: 2100000, guid: c3d4dd2efd7c6434db4e738d8ffa6e69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy47Mat
+    second: {fileID: 2100000, guid: df3d5e53fcc45b7478ec9c42ce09b20e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy48Mat
+    second: {fileID: 2100000, guid: 8292fb01bce9f5b4cb06d6c00f3df287, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy49Mat
+    second: {fileID: 2100000, guid: 2bd3aefbc7b7bed4d97fcef58ac864b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy4Mat
+    second: {fileID: 2100000, guid: 0403d746374ed8042b31945cdb7e0fd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy50Mat
+    second: {fileID: 2100000, guid: ca7b14fba2e689c4a8b43c9e4e657c16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy51Mat
+    second: {fileID: 2100000, guid: 405ffeffca035dc4b841d43a01826c21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy52Mat
+    second: {fileID: 2100000, guid: 7467b107905677d44a278114c5d8e6b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy53Mat
+    second: {fileID: 2100000, guid: 08e9d148d19e4cb4aa7b1ed5d6109891, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy54Mat
+    second: {fileID: 2100000, guid: 861080a04dc85c149ac062423965fbc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy55Mat
+    second: {fileID: 2100000, guid: 5c07e24d1f7e6ff4f803e1fa60752fdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy5Mat
+    second: {fileID: 2100000, guid: 701cb633f7f747248a3d5447e2c3920c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy6Mat
+    second: {fileID: 2100000, guid: 903ad288c45da7f4f904153b979c40ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy7Mat
+    second: {fileID: 2100000, guid: f97c89a640c3b5643ab18656552aa101, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy8Mat
+    second: {fileID: 2100000, guid: 918debb747d09484f80553c0a1ad63c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Glow_Worm_Proxy9Mat
+    second: {fileID: 2100000, guid: edd1da854cca17847ae5a9064643eff8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Jupiter_ProxyMat
+    second: {fileID: 2100000, guid: faa10c1ac028139448b4860bc731da4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Ladder_ProxyMat
+    second: {fileID: 2100000, guid: 753e2f96308fbda4d80cba8fe17b3a30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_MapRoll1_ProxyMat
+    second: {fileID: 2100000, guid: 639a13f1df3786c4c9809d4ad6a020d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_MapRoll2_Proxy1Mat
+    second: {fileID: 2100000, guid: 2c5f5f2213d055a45b28a26e201cf130, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_MapRoll2_ProxyMat
+    second: {fileID: 2100000, guid: f0a1e00f0f85b824db6ebe789c3ee882, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Mars_ProxyMat
+    second: {fileID: 2100000, guid: 945b382d4cef5164f9e971ef25c44d6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Mercury_ProxyMat
+    second: {fileID: 2100000, guid: 54a27fe66743a8b4aa1e0dfe8eedde63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Mining_Cart_Proxy1Mat
+    second: {fileID: 2100000, guid: 9a0ebab28a0c06f428b32e245207b7c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Mining_Cart_ProxyMat
+    second: {fileID: 2100000, guid: df66357a1309a4147b899f63663cad41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Mining_Lamp1_ProxyMat
+    second: {fileID: 2100000, guid: d9f05a8656922d9488fa6e56c03db914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Mining_Lamp2_Proxy1Mat
+    second: {fileID: 2100000, guid: 81bd61ed7ac75514b9851db4f80a7a4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Mining_Lamp2_Proxy2Mat
+    second: {fileID: 2100000, guid: b838dbb2d7ac52f49b6645e60329e81f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Mining_Lamp2_ProxyMat
+    second: {fileID: 2100000, guid: 8aa5cf64ee02d2d4f8c508f5934481dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Mining_Lamp4_ProxyMat
+    second: {fileID: 2100000, guid: 280ae8fd32bb0cd43a2cb0abf1139cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Moon_ProxyMat
+    second: {fileID: 2100000, guid: 0b6a853540657594e8512e1856928c65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Neptune_ProxyMat
+    second: {fileID: 2100000, guid: fc0d22e52b0822b4ca6249f6ffcdfaaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Open_Book1_ProxyMat
+    second: {fileID: 2100000, guid: 251bb2cb4208f66419e27aa412f8b03b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Open_Book2_ProxyMat
+    second: {fileID: 2100000, guid: 00691b6ae447f60488d64c209b9f6f3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Open_Book3_ProxyMat
+    second: {fileID: 2100000, guid: d10ca0c797c0ab0489eb892bd60f093e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Open_Book4_ProxyMat
+    second: {fileID: 2100000, guid: 7fc2fed387a05b14a8f1031b741f7b7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Open_Book5_ProxyMat
+    second: {fileID: 2100000, guid: d648a014ec85a264fa5e2f696657e8b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Open_Book6_ProxyMat
+    second: {fileID: 2100000, guid: 252b5084199a96542ae8c86b5d2b7bbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Player_ProxyMat
+    second: {fileID: 2100000, guid: 97d42a1e9bd364842b51ebc35128f724, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Rafter1_Proxy1Mat
+    second: {fileID: 2100000, guid: ccaf8575abae8ae45b5af7eab24eeefd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Rafter1_Proxy2Mat
+    second: {fileID: 2100000, guid: 254d134b2ccef6148a5e2a6389bf3760, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Rafter1_Proxy3Mat
+    second: {fileID: 2100000, guid: 59a717225dbe7dd49b93834d0e101b1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Rafter1_ProxyMat
+    second: {fileID: 2100000, guid: 1fbc2c1421e13074b95644ef191a8160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Rafter2_Proxy1Mat
+    second: {fileID: 2100000, guid: c796ff9dd2718c0409f8d27fb53efc01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Rafter2_Proxy2Mat
+    second: {fileID: 2100000, guid: a679372321609274894fafea8e99ce4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Rafter2_Proxy3Mat
+    second: {fileID: 2100000, guid: 5b6079491b03a214eb8bce9c43dc787c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Rafter2_ProxyMat
+    second: {fileID: 2100000, guid: f6d14d70a0eae0e4eb764551ab1dc9db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Rafter3_Proxy1Mat
+    second: {fileID: 2100000, guid: a978d1775d5b1624cbf9ec42398d6853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Rafter3_Proxy2Mat
+    second: {fileID: 2100000, guid: 03f916fcba5681a42a5c689a43dfac68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Rafter3_Proxy3Mat
+    second: {fileID: 2100000, guid: 9c1a9655fac5f904d9b89416b281c80b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Rafter3_ProxyMat
+    second: {fileID: 2100000, guid: 14141b9f8d17f4d4492626e5b5639919, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlank1_RailPlankGroup10Mat
+    second: {fileID: 2100000, guid: bb6f101844ef9cf408c5c7b1db7265f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlank1_RailPlankGroup1Mat
+    second: {fileID: 2100000, guid: 81caf7bed8849a74caa697b78a6a0b97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlank1_RailPlankGroup2Mat
+    second: {fileID: 2100000, guid: 859d2705db552fa459388018e383e207, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlank1_RailPlankGroup3Mat
+    second: {fileID: 2100000, guid: ebe0e6b961eda2d43a403b08cd288a74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlank1_RailPlankGroup4Mat
+    second: {fileID: 2100000, guid: 27e0521b75ad65f4b9feaa63024a8d27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlank1_RailPlankGroup5Mat
+    second: {fileID: 2100000, guid: b08bfa6321c97c841a0edcb0f8a92c68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlank1_RailPlankGroup6Mat
+    second: {fileID: 2100000, guid: 702ab65fb75d97447b9bdad64d1fb374, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlank1_RailPlankGroup7Mat
+    second: {fileID: 2100000, guid: 0f9f9c3272d292344b18d6102793a556, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlank1_RailPlankGroup8Mat
+    second: {fileID: 2100000, guid: b02010cb3a7ffd44ba745cfb56957bcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlank1_RailPlankGroup9Mat
+    second: {fileID: 2100000, guid: 00bbff0a978de7e4dbabf7bc468a40ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup10_RailPlank2Mat
+    second: {fileID: 2100000, guid: d3d2117299cb5074ea87598ac8323b95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup10_RailPlank3Mat
+    second: {fileID: 2100000, guid: af5e66c8d0dea1a4da39927d6ab09478, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup10_RailPlank4Mat
+    second: {fileID: 2100000, guid: f2ec2de1e31ee344590e7ea0cee4c30a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup10_RailPlank5Mat
+    second: {fileID: 2100000, guid: c092b47fe1ad6074a9eb19b9461d5fad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup10_RailPlank6Mat
+    second: {fileID: 2100000, guid: 67e2dd5966679554c9e16f6e8cd420ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup1_RailPlank2Mat
+    second: {fileID: 2100000, guid: 145397bbf3e94b046b7f05f37d5c7b4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup1_RailPlank3Mat
+    second: {fileID: 2100000, guid: 8a22aadd99f33004292cce32afeabbde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup1_RailPlank4Mat
+    second: {fileID: 2100000, guid: 5516bce7643e0d145a9678c0c15edd90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup1_RailPlank5Mat
+    second: {fileID: 2100000, guid: d499f9c24aab110409e792e459e45c67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup1_RailPlank7Mat
+    second: {fileID: 2100000, guid: 59d36c7744eeaa444889f76747b5e1ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup2_RailPlank2Mat
+    second: {fileID: 2100000, guid: ea9cfd84d0ac3f147b0a24c7491d7231, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup2_RailPlank3Mat
+    second: {fileID: 2100000, guid: 555df55064b8c5a47bafe56b25277a75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup2_RailPlank4Mat
+    second: {fileID: 2100000, guid: c1f9d2ed740682247b990bbe45d554c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup2_RailPlank5Mat
+    second: {fileID: 2100000, guid: c11fd95b6cba8d9438a3977b2cf7294d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup3_RailPlank2Mat
+    second: {fileID: 2100000, guid: 91783d2c8e80e014c8d307ac40db174f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup3_RailPlank3Mat
+    second: {fileID: 2100000, guid: 28995e291205b4c4c9ad2649124f48cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup3_RailPlank4Mat
+    second: {fileID: 2100000, guid: 1f3aec64c57efa94eb55aa58eeb9bbb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup3_RailPlank5Mat
+    second: {fileID: 2100000, guid: 8e514ec31a31973468cd0b9ffd831934, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup4_RailPlank2Mat
+    second: {fileID: 2100000, guid: 7054ca7988b8ba543b333dfe6e8e09ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup4_RailPlank3Mat
+    second: {fileID: 2100000, guid: 73344fc84ae743a47b3071aa0b1ff20a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup4_RailPlank4Mat
+    second: {fileID: 2100000, guid: 058125dae3c70f44a90d963d9fccbcd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup4_RailPlank5Mat
+    second: {fileID: 2100000, guid: 6968da37314ad0d42a2fd6ebca5635e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup5_RailPlank2Mat
+    second: {fileID: 2100000, guid: d474384623074784c9817c9c20302173, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup5_RailPlank3Mat
+    second: {fileID: 2100000, guid: 0f8dc195684bcf24b872553ca6ba279f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup5_RailPlank4Mat
+    second: {fileID: 2100000, guid: cc378f973faec2346bbae177de232a8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup5_RailPlank5Mat
+    second: {fileID: 2100000, guid: 9c0044255dabcde4998b0a76d1dab653, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup6_RailPlank2Mat
+    second: {fileID: 2100000, guid: 5d514fa1e48d00e4e84f3f9f22a1b6ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup6_RailPlank3Mat
+    second: {fileID: 2100000, guid: 2623b1ef03844004fad458c65fa62d6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup6_RailPlank4Mat
+    second: {fileID: 2100000, guid: ba0336048bef5fa44a7ba60caaeabc42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup6_RailPlank5Mat
+    second: {fileID: 2100000, guid: 6069ebfdb328fb84ab6c9740dce7b04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup7_RailPlank2Mat
+    second: {fileID: 2100000, guid: efc3c4ab578d8b742805e6a51dc87e5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup7_RailPlank3Mat
+    second: {fileID: 2100000, guid: 42f4e8029f2bb9b4881b80bcb970cd0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup7_RailPlank4Mat
+    second: {fileID: 2100000, guid: a3a0d6818c6b65e409138f7c1d03a49d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup7_RailPlank5Mat
+    second: {fileID: 2100000, guid: e26a8f1bd23117446a4652d358d0e828, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup8_RailPlank2Mat
+    second: {fileID: 2100000, guid: b416f8e834bb9ca45b7cfcc51f244129, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup8_RailPlank3Mat
+    second: {fileID: 2100000, guid: f72c8e412725b1a43a879f46d45c409e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup8_RailPlank4Mat
+    second: {fileID: 2100000, guid: 3a6aba7436911cb4799680644d5ccec5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup8_RailPlank5Mat
+    second: {fileID: 2100000, guid: d5baef130bc291640a16e9d3d7a4bd53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup9_RailPlank2Mat
+    second: {fileID: 2100000, guid: 73a5cea630f0d83469b8294c3ec3f216, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup9_RailPlank3Mat
+    second: {fileID: 2100000, guid: 90d9598e2900ad946a5898b32be9e14c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup9_RailPlank4Mat
+    second: {fileID: 2100000, guid: 7175dd526938da64f99672abc1e5a8e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_RailPlankGroup9_RailPlank5Mat
+    second: {fileID: 2100000, guid: b1afd45cfd6c6b4429d72448f6c9f874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Rail_Inside_ProxyMat
+    second: {fileID: 2100000, guid: 17fa7af0561a32940bbc3857d965966c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Rail_Outside_ProxyMat
+    second: {fileID: 2100000, guid: dfec507ab1e3647479a27347a288085a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Saturn_ProxyMat
+    second: {fileID: 2100000, guid: 7ac5575549c0a4947845d01e18cb0e81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Solo_Flat_Book10_ProxyMat
+    second: {fileID: 2100000, guid: de9d208bf905bfc468103544faf20703, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Solo_Flat_Book1_ProxyMat
+    second: {fileID: 2100000, guid: b36b530280db05540a42fc93a434eabe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Solo_Flat_Book2_ProxyMat
+    second: {fileID: 2100000, guid: 4b03982f09f08b14ea425c4d9afe7d45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Solo_Flat_Book3_ProxyMat
+    second: {fileID: 2100000, guid: dbe23a9a1a00aeb47be12f70d3e5e185, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Solo_Flat_Book4_ProxyMat
+    second: {fileID: 2100000, guid: c374cd1af33c58140a4d67adf70cb543, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Solo_Flat_Book5_ProxyMat
+    second: {fileID: 2100000, guid: 5505057cc3a3c054d800a3cc5864fc03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Solo_Flat_Book6_ProxyMat
+    second: {fileID: 2100000, guid: 510d3a1ad06008d4aac579bbf1892cbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Solo_Flat_Book7_ProxyMat
+    second: {fileID: 2100000, guid: 0c4aa6f2e4c08ad4f99e211874c7b2e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Solo_Flat_Book8_ProxyMat
+    second: {fileID: 2100000, guid: 7241df2ad35f3d54598b874423ac060b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Solo_Flat_Book9_ProxyMat
+    second: {fileID: 2100000, guid: c6f7e5aebd430b049b63bc40aea8ddd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_StandingBook1_ProxyMat
+    second: {fileID: 2100000, guid: 75a45d3be85e2c34984848424475ff4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_StandingBook2_ProxyMat
+    second: {fileID: 2100000, guid: 11bec1d4ce4c5ec47b7b94c6973a3bb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_StandingBook3_ProxyMat
+    second: {fileID: 2100000, guid: e78d0c8a149f01f40a7cbc26d152e08a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_StandingBook4_ProxyMat
+    second: {fileID: 2100000, guid: 76422330bc120d340b7a91ee3a5fb2c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Sun_ProxyMat
+    second: {fileID: 2100000, guid: ee15be2e5f14eb8478f5a30bf67176de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Table_ProxyMat
+    second: {fileID: 2100000, guid: fa7db705436a97744b3a775648150102, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Telescope_Body_Main_Proxy1Mat
+    second: {fileID: 2100000, guid: f0b9c003f443d934c94d2c60a1ffd825, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_TiltedLeftBook10_ProxyMat
+    second: {fileID: 2100000, guid: e022d0a49bda49f41a1711459d7ddf54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_TiltedLeftBook11_ProxyMat
+    second: {fileID: 2100000, guid: 53af14c269f7ff64a8ac400d371838bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_TiltedLeftBook12_ProxyMat
+    second: {fileID: 2100000, guid: f4155da82b778c745880354c5981d316, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_TiltedLeftBook13_ProxyMat
+    second: {fileID: 2100000, guid: 405989be90408b1499efc1beb16a2b04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_TiltedLeftBook14_ProxyMat
+    second: {fileID: 2100000, guid: 7f0e7fefcd6f0514bb6d1bdf5a478f32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_TiltedLeftBook1_ProxyMat
+    second: {fileID: 2100000, guid: 94ba765970f3168408cb18fb690dfed1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_TiltedLeftBook2_ProxyMat
+    second: {fileID: 2100000, guid: e82a96c9f30b4b249a039916e8680716, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_TiltedLeftBook3_ProxyMat
+    second: {fileID: 2100000, guid: ede11c840e695644db916bb1c00fc650, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_TiltedLeftBook4_ProxyMat
+    second: {fileID: 2100000, guid: f4dc36c782c1abe48a13c79dd726dec0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_TiltedLeftBook5_ProxyMat
+    second: {fileID: 2100000, guid: 82cb7394c8d2de64483fcffdad887361, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_TiltedLeftBook6_ProxyMat
+    second: {fileID: 2100000, guid: 80e4fe3754571204b828be163634348e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_TiltedLeftBook7_ProxyMat
+    second: {fileID: 2100000, guid: f573cc1a4aa5aa44c8357ff7ff73e86c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_TiltedLeftBook8_ProxyMat
+    second: {fileID: 2100000, guid: 1bcea99bfc16b4541a3459da0238a09e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_TiltedLeftBook9_Proxy1Mat
+    second: {fileID: 2100000, guid: 4d9479bb1ae203c4abd3de8f97229474, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_TiltedLeftBook9_ProxyMat
+    second: {fileID: 2100000, guid: cac6aeaa8da00574e8b49bb2f1263eee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_TiltedRightBook1_ProxyMat
+    second: {fileID: 2100000, guid: 07fa4550690596e429a13071c4d84d99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_TiltedRightBook2_ProxyMat
+    second: {fileID: 2100000, guid: 8ece46f3ccc3aae4c844bf12290d74ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Uranus_ProxyMat
+    second: {fileID: 2100000, guid: 657ce41c0bcda424b959b6e3134cf3ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WholeCaveLibrary_Venus_ProxyMat
+    second: {fileID: 2100000, guid: 270d2db547d68394887e98010ef53493, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

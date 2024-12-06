@@ -1,0 +1,826 @@
+# Blender MTL File: 'Prehistoric Playground.blend'
+# Material Count: 74
+
+newmtl BossEntropyWeapon_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!actors!Bosses!BossNtropy!BossEntropyWeapon_C`tga,111out.png
+
+newmtl C1_Jungle_Cliff01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl C1_PalmLeaf01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_d ColorMap,textures@!levels!crash1!jungle!C1_PalmLeaf01_C`tga,111out.png
+
+newmtl C1_RockSet_01_N
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl C1_Sharp_Grass_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Crash1!jungle!C1_Sharp_Grass_C`tga,111out.png
+
+newmtl C2_StoneSignSet_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Crash2!Snow!C2_StoneSignSet_C`tga,111out.png
+
+newmtl C2_VinesDecal01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Crash2!Jungle!C2_VinesDecal01_C`tga,111out.png
+map_d ColorMap,textures@!levels!Crash2!Jungle!C2_VinesDecal01_C`tga,111out.png
+
+newmtl C3_Egypt_Glyphs_ColumnStone_N
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump NormalMap,textures@!levels!Crash3!Egypt!C3_Egypt_Glyphs_ColumnStone_N`tga,111out.png
+map_Kd ColorMap,textures@!levels!Octane!T142_Dragon_Mines!T142_Sand!T142_Ground_Sand_02e_C`tga,111out.png
+
+newmtl C3_Prehistoric_Tusk01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Crash3!Prehistoric!C3_Prehistoric_Tusk01_C`tga,111out.png
+
+newmtl CrashCove_Sand02_D
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T111_Crash_Cove!T111_Sand_Wet01!CrashCove_Sand02_D`tga,111out.png
+
+newmtl FXT_distort_water_01
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 0.360606
+illum 9
+
+newmtl FakeBronchiosaurus_Body_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!actors!Octane!Characters!FakeBrashiosaurus!FakeBronchiosaurus_Body_C`tga,111out.png
+
+newmtl FakeBronchiosaurus_Hair_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!actors!Octane!Characters!FakeBrashiosaurus!FakeBronchiosaurus_Hair_C`tga,111out.png
+map_d ColorMap,textures@!actors!Octane!Characters!FakeBrashiosaurus!FakeBronchiosaurus_Hair_C`tga,111out.png
+
+newmtl FakeTriceratop_Body_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!actors!Octane!Characters!FakeTriceratop!FakeTriceratop_Body_C`tga,111out.png
+
+newmtl OCT_Turbo_Pad_EC
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!Global!OCT_Turbo_Pad_EC`tga,111out.png
+
+newmtl Ride_Trex_Egg_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!actors!Playable!Ride_TRex!Ride_Trex_Egg_C`tga,111out.png
+
+newmtl T111_CTR_Letters_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T111_Crash_Cove!T111_CTR_Letters!T111_CTR_Letters_C`png,111out.png
+
+newmtl T131_C3_Vine01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T131_Coco_Park!T131_C3_Vine01_C`tga,111out.png
+
+newmtl T142_Ground_Sand_02e_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T142_Dragon_Mines!T142_Sand!T142_Ground_Sand_02e_C`tga,111out.png
+
+newmtl T31_Checker_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T131_Coco_Park!T31_Checker_C`tga,111out.png
+
+newmtl T502_AloeVera_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_AloeVera_C`tga,111out.png
+map_d ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_AloeVera_C`tga,111out.png
+
+newmtl T502_Arrow_Decal_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Arrow_Decal_01_C`tga,111out.png
+map_d ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Arrow_Decal_01_C`tga,111out.png
+
+newmtl T502_Bones_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!T502_Bones_C`tga,111out.png
+
+newmtl T502_Bridge_Planks_Wet_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Bridge_Planks_Wet_C`tga,111out.png
+
+newmtl T502_CaveGBorder01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_CaveGBorder01_C`tga,111out.png
+
+newmtl T502_Feather_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Feather_01_C`tga,111out.png
+map_d ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Feather_01_C`tga,111out.png
+
+newmtl T502_FernJurassic_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_FernJurassic_C`tga,111out.png
+
+newmtl T502_Foliage_Paint_Trim_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Foliage_Paint_Trim_01_C`tga,111out.png
+map_d ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Foliage_Paint_Trim_01_C`tga,111out.png
+
+newmtl T502_Grass_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Grass_01_C`tga,111out.png
+map_d ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Grass_01_C`tga,111out.png
+
+newmtl T502_GroundLeaves_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!T502_GroundLeaves_01_C`tga,111out.png
+
+newmtl T502_JungleBorder_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_JungleBorder_01_C`tga,111out.png
+
+newmtl T502_JungleLeaves_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_JungleLeaves_01_C`tga,111out.png
+
+newmtl T502_Jungle_Leaves_02
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Jungle_Leaves_02`tga,111out.png
+map_d ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Jungle_Leaves_02`tga,111out.png
+
+newmtl T502_Jungle_Plants_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Jungle_Plants_C`tga,111out.png
+map_d ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Jungle_Plants_C`tga,111out.png
+
+newmtl T502_Jungle_Waterplant_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Jungle_Waterplant_C`tga,111out.png
+map_d ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Jungle_Waterplant_C`tga,111out.png
+
+newmtl T502_Leaves_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Leaves_01_C`tga,111out.png
+map_d ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Leaves_01_C`tga,111out.png
+
+newmtl T502_MudGround2_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!T502_MudGround2_01_C`tga,111out.png
+
+newmtl T502_MudGround3_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!T502_MudGround3_01_C`tga,111out.png
+
+newmtl T502_MudGround4_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!T502_MudGround4_01_C`tga,111out.png
+
+newmtl T502_MudGroundTrack1_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!T502_MudGroundTrack1_01_C`tga,111out.png
+
+newmtl T502_MudGround_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!T502_MudGround_01_C`tga,111out.png
+
+newmtl T502_Nest_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Nest_C`tga,111out.png
+map_d ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Nest_C`tga,111out.png
+
+newmtl T502_PinePlant_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_PinePlant_C`tga,111out.png
+
+newmtl T502_Plants_Jurassic_Generic_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Plants_Jurassic_Generic_C`tga,111out.png
+map_d ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Plants_Jurassic_Generic_C`tga,111out.png
+
+newmtl T502_RockGBorder01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_RockGBorder01_C`tga,111out.png
+
+newmtl T502_RockGround1_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!T502_RockGround1_01_C`tga,111out.png
+
+newmtl T502_RockLittle01_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_RockLittle01_01_C`tga,111out.png
+
+newmtl T502_RockMed02_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_RockMed02_01_C`tga,111out.png
+
+newmtl T502_Rockwall_02_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!T502_Rockwall_02_C`tga,111out.png
+
+newmtl T502_Rond_Shortcut_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Rond_Shortcut_01_C`tga,111out.png
+
+newmtl T502_Rond_Shortcut_02_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Rond_Shortcut_02_C`tga,111out.png
+
+newmtl T502_Rond_Shortcut_03_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Rond_Shortcut_03_C`tga,111out.png
+
+newmtl T502_SetBones_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_SetBones_C`tga,111out.png
+
+newmtl T502_Skybox_back
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl T502_Skybox_front
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl T502_Skybox_left
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl T502_Skybox_right
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl T502_Skybox_up
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl T502_Stalactites_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Stalactites_01_C`tga,111out.png
+
+newmtl T502_Straw_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Straw_01_C`tga,111out.png
+map_d ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Straw_01_C`tga,111out.png
+
+newmtl T502_Tree_Acacia_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Tree_Acacia_01_C`tga,111out.png
+
+newmtl T502_Tree_Jungle_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Tree_Jungle_01_C`tga,111out.png
+
+newmtl T502_Tree_Jungle_02_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Tree_Jungle_02_C`tga,111out.png
+
+newmtl T502_Tree_Palm_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Tree_Palm_01_C`tga,111out.png
+
+newmtl T502_Water_Pipes_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Water_Pipes_C`tga,111out.png
+
+newmtl T502_WoodPike_01_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_WoodPike_01_C`tga,111out.png
+
+newmtl T502_Wood_Stick_C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!T502_Wood_Stick_C`tga,111out.png
+
+newmtl black
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl fxt_water_geyser_d
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 0.393939
+illum 9
+
+newmtl fxt_water_unlit_liquid
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!VFX!CTR!fxt_water_unlit_liquid`tga,111out.png
+map_d ColorMap,textures@!VFX!CTR!fxt_water_unlit_liquid`tga,111out.png
+
+newmtl fxt_waterfall
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!VFX!CTR!fxt_waterfall`png,111out.png
+map_d ColorMap,textures@!VFX!CTR!fxt_waterfall`png,111out.png
+
+newmtl t502_Cavern_Decal_01
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!t502_Cavern_Decal_01`tga,111out.png
+map_d ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!t502_Cavern_Decal_01`tga,111out.png
+
+newmtl t502_Cavern_Decal_02
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!t502_Cavern_Decal_02`tga,111out.png
+map_d ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!t502_Cavern_Decal_02`tga,111out.png
+
+newmtl t502_Cavern_Decal_03
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!t502_Cavern_Decal_03`tga,111out.png
+map_d ColorMap,textures@!levels!Octane!T502_Back_In_Time!Assets!t502_Cavern_Decal_03`tga,111out.png
