@@ -59,5 +59,6 @@ Material:
     m_Ints: []
     m_Floats:
     - _Glossiness: 0.5656854
+    - _Smoothness: 0
     m_Colors: []
   m_BuildTextureStacks: []
