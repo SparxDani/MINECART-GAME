@@ -39,6 +39,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _FadeAmount: 2
+    - _Float: 1.35
     - _FoamCutOff: 5
     - _FoamScale: 200
     - _FoamSpeed: 1
@@ -46,7 +47,7 @@ Material:
     - _QueueOffset: 0
     - _RefractionScale: 10
     - _RefractionSpeed: 0.05
-    - _RefractionStrength: 5
+    - _RefractionStrength: 36.01
     - _Scale: 0
     - _Speed: 0
     - _WaterDepth: 5
