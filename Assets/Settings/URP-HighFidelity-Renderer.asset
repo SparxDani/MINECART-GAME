@@ -20,8 +20,8 @@ MonoBehaviour:
     Source: 1
     NormalSamples: 2
     Intensity: 10
-    DirectLightingStrength: 0.445
-    Radius: 30
+    DirectLightingStrength: 1
+    Radius: 50
     Samples: 0
     BlurQuality: 0
     Falloff: 25
@@ -109,7 +109,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5d96b09ddaf37042b925b14decbf20e, type: 3}
   m_Name: ToonDetailerFeature
   m_EditorClassIdentifier: 
-  m_Active: 0
+  m_Active: 1
   m_Settings:
     _DetailerType: 0
     _MaskUse: 0
